@@ -16,8 +16,8 @@ $ pip install -r requirements.txt
 
 *Also needed:* 
 * download [robustness-data](https://uni-siegen.sciebo.de/s/aFzpxCvTDWknpMA) into ```robustness-data/```
-* download [zcp_data](https://drive.google.com/file/d/1R7n7GpFHAjUZpPISzbhxH0QjubnvZM5H/view?usp=share_link) into ````zcp_data````
-* download [robustness_dataset_zcp](https://drive.google.com/file/d/1byp12_hWJncd9e-JMYc9Zn0PYGwMOqHg/view?usp=drive_link) into ````robustness_dataset_zcp````
+* download [zcp_data](https://drive.google.com/file/d/1R7n7GpFHAjUZpPISzbhxH0QjubnvZM5H/view?usp=share_link) into ````zcp_data/````
+* download [robustness_dataset_zcp](https://drive.google.com/file/d/1byp12_hWJncd9e-JMYc9Zn0PYGwMOqHg/view?usp=drive_link) into ````robustness_dataset_zcp/````
 
 
 ### Run code
