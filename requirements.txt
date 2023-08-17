@@ -1,0 +1,10 @@
+torch=1.13.1
+kaleido
+matplotlib
+numpy
+pandas
+plotly
+scikit-learn
+scipy
+seaborn
+tqdm
